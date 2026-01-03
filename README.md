@@ -14,5 +14,5 @@ remotes::install_github("jackbmiller/pstat5lsSBI")
 To use the package, make sure the following line of code is run every time you start R, or by making sure it is in the setup chunk of your R Markdown document:
 
 ```{r}
-library(pstat5ls.sbi)
+library(pstat5lsSBI)
 ```
