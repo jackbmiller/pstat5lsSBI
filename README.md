@@ -1,4 +1,4 @@
-# pstat5ls.sbi
+# pstat5lsSBI
 
 An R package originally designed for the simulation-based inference cluster of STATS 250 at the University of Michigan (2020-2022). This package has been forked for use in PSTAT 5LS at the UC Santa Barbara (2023-).
 
@@ -8,7 +8,7 @@ This package is not available on CRAN, and must be installed via GitHub using th
 
 ```{r}
 install.packages("remotes")
-remotes::install_github("jackbmiller/pstat5ls.sbi")
+remotes::install_github("jackbmiller/pstat5lsSBI")
 ```
 
 To use the package, make sure the following line of code is run every time you start R, or by making sure it is in the setup chunk of your R Markdown document:
