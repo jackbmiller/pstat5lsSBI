@@ -1,4 +1,4 @@
-Package: pstat5ls.sbi
+Package: pstat5lsSBI
 Type: Package
 Title: Functions for Use in PSTAT 5LS at UC Santa Barbara
 Version: 1.0.0
